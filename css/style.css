@@ -712,6 +712,7 @@ input[type="email"]{
     #nosotros {
         flex-direction: column;
         margin-bottom: 2em;
+        padding: 1em;
     }
 
     .imagen-medio {
