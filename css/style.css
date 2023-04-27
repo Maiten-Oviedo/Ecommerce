@@ -488,7 +488,7 @@ input[type="email"]{
     /*HEADER*/
 
     .logo img {
-        margin-left: 2em;
+        margin-left: 16px;
     }
 
     .menu {
