@@ -2,7 +2,7 @@ const productos = [
   {
     id: "remera-mujer-01",
     titulo:"Remeron Gris Liso",
-    imagen: "../Imagenes/Imagenes-mujeres/remera-mujer-01.jpg",
+    imagen: "./Imagenes/Imagenes-mujeres/remera-mujer-01.jpg",
     categorias:{
       nombre:"Remeras",
       id: "remeras",
@@ -13,7 +13,7 @@ const productos = [
   {
       id: "remera-mujer-02",
       titulo:"Remera Royalty Blanca",
-      imagen: "../Imagenes/Imagenes-mujeres/remera-mujer-02.jpg",
+      imagen: "./Imagenes/Imagenes-mujeres/remera-mujer-02.jpg",
       categorias:{
         nombre:"Remeras",
         id: "remeras",
@@ -24,7 +24,7 @@ const productos = [
   {
       id: "remera-mujer-03",
       titulo:"Remera Karma Negra",
-      imagen: "../Imagenes/Imagenes-mujeres/remera-mujer-03.jpg",
+      imagen: "./Imagenes/Imagenes-mujeres/remera-mujer-03.jpg",
       categorias:{
         nombre:"Remeras",
         id: "remeras",
@@ -35,7 +35,7 @@ const productos = [
   {
       id: "remera-mujer-04",
       titulo:"Remera Packstreet Blanca",
-      imagen: "../Imagenes/Imagenes-mujeres/remera-mujer-04.jpg",
+      imagen: "./Imagenes/Imagenes-mujeres/remera-mujer-04.jpg",
       categorias:{
         nombre:"Remeras",
         id: "remeras",
@@ -46,7 +46,7 @@ const productos = [
   {
       id: "pantalon-mujer-01",
       titulo:"Pantalon Jogging Blanco",
-      imagen: "../Imagenes/Imagenes-mujeres/pantalon-mujer-01.jpg",
+      imagen: "./Imagenes/Imagenes-mujeres/pantalon-mujer-01.jpg",
       categorias:{
         nombre:"Pantalones",
         id: "pantalones",
@@ -57,7 +57,7 @@ const productos = [
   {
       id: "pantalon-mujer-02",
       titulo:"Pantalon de Vestir Negro",
-      imagen: "../Imagenes/Imagenes-mujeres/pantalon-mujer-02.jpg",
+      imagen: "./Imagenes/Imagenes-mujeres/pantalon-mujer-02.jpg",
       categorias:{
         nombre:"Pantalones",
         id: "pantalones",
@@ -68,7 +68,7 @@ const productos = [
   {
       id: "pantalon-mujer-03",
       titulo:"Jean Oversize",
-      imagen: "../Imagenes/Imagenes-mujeres/pantalon-mujer-03.jpg",
+      imagen: "./Imagenes/Imagenes-mujeres/pantalon-mujer-03.jpg",
       categorias:{
         nombre:"Pantalones",
         id: "pantalones",
@@ -79,7 +79,7 @@ const productos = [
   {
       id: "pantalon-mujer-04",
       titulo:"Jean Oversize Negro",
-      imagen: "../Imagenes/Imagenes-mujeres/pantalon-mujer-04.jpg",
+      imagen: "./Imagenes/Imagenes-mujeres/pantalon-mujer-04.jpg",
       categorias:{
         nombre:"Pantalones",
         id: "pantalones",
@@ -90,7 +90,7 @@ const productos = [
   {
       id: "zapatilla-mujer-01",
       titulo:'Adidas "Ozweego"',
-      imagen: "../Imagenes/Imagenes-mujeres/zapatilla-mujer-01.jpg",
+      imagen: "./Imagenes/Imagenes-mujeres/zapatilla-mujer-01.jpg",
       categorias:{
         nombre:"Zapatillas",
         id: "zapatillas",
@@ -101,7 +101,7 @@ const productos = [
   {
       id: "zapatilla-mujer-02",
       titulo:'Adidas "Nitro"',
-      imagen: "../Imagenes/Imagenes-mujeres/zapatilla-mujer-02.jpg",
+      imagen: "./Imagenes/Imagenes-mujeres/zapatilla-mujer-02.jpg",
       categorias:{
         nombre:"Zapatillas",
         id: "zapatillas",
@@ -112,7 +112,7 @@ const productos = [
   {
       id: "zapatilla-mujer-03",
       titulo:'Vans "Old School"',
-      imagen: "../Imagenes/Imagenes-mujeres/zapatilla-mujer-03.jpg",
+      imagen: "./Imagenes/Imagenes-mujeres/zapatilla-mujer-03.jpg",
       categorias:{
         nombre:"Zapatillas",
         id: "zapatillas",
@@ -123,7 +123,7 @@ const productos = [
   {
       id: "zapatilla-mujer-04",
       titulo:'Nike "Jordan High"',
-      imagen: "../Imagenes/Imagenes-mujeres/zapatilla-mujer-04.jpg",
+      imagen: "./Imagenes/Imagenes-mujeres/zapatilla-mujer-04.jpg",
       categorias:{
         nombre:"Zapatillas",
         id: "zapatillas",
