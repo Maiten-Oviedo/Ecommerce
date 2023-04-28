@@ -698,10 +698,6 @@ input[type="email"]{
 
 @media (width < 750px ) {
     /*SECCION NOVEDADES*/
-
-    .novedades-productos {
-        flex-wrap: wrap-reverse;
-    }
     
     .novedades-producto {
         width: 50%;
